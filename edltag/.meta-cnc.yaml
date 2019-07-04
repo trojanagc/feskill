@@ -47,7 +47,7 @@ variables:
       - key: option1
         value: hourly
       - key: option2
-        value:five-minute
+        value: five-minute
 # ---------------------------------------------------------------------
 # end of variables section
 
