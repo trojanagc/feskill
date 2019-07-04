@@ -44,9 +44,9 @@ variables:
     default: choices
     type_hint: dropdown
     dd_list:
-      - key: option1
+      - key: hourly
         value: hourly
-      - key: option2
+      - key: five-minute
         value: five-minute
 # ---------------------------------------------------------------------
 # end of variables section
@@ -57,6 +57,6 @@ variables:
 # files will load in the order listed
 snippets:
   - name: edl_tag
-    file: edl_tag.conf
+    file: edltag.conf
 # ---------------------------------------------------------------------
 # end of snippets section
