@@ -27,7 +27,7 @@ labels:
 # type_hint defines the form field used by panhandler
 # type_hints can be text, ip_address, or dropdown
 variables:
-  - name: var_edllistnam
+  - name: var_edllistname
     description: name of the EDL LIST NAME
     default: none
     type_hint: text
