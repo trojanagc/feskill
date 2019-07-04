@@ -16,7 +16,7 @@ extends:
 # grouping of like snippets for dynamic menu creation in panhandler
 labels:
   collection:
-    - Example TAG
+    - Example_EDL_TAG
 
 # ---------------------------------------------------------------------
 # end of preamble section
